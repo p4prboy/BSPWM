@@ -14,7 +14,7 @@ xrandr --output DisplayPort-2 --primary
 xrandr --output Display-Port-2 --right-of --output eDP
 # Set Wallpaper
 
-feh --bg-fill ~/Pictures/new.jpg
+feh --bg-fill ~/.config/bspwm/new.jpg
 
 # Launch Polybar
 
