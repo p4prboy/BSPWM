@@ -2,7 +2,7 @@
 
 #Start Picom Compostitor
 
-picom -b 
+picom &
 
 # Start Spotifyd Service
 
