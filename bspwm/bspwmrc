@@ -6,15 +6,15 @@ picom &
 
 # Start Spotifyd Service
 
-spotifyd
+# spotifyd
 
 #Set Display Resolution
 
-xrandr --output DisplayPort-2 --primary 
+xrandr --output DisplayPort-2 --primary --mode 3840 × 2160
 xrandr --output Display-Port-2 --right-of --output eDP
 # Set Wallpaper
 
-feh --bg-fill ~/.config/bspwm/new.jpg
+feh --bg-fill ~/.config/bspwm/image2.jpg
 
 # Launch Polybar
 
