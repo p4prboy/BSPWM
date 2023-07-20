@@ -4,7 +4,7 @@
 
 # lockscreen
 super + l
-        betterlockscreen -l dim
+        slock
 
 # window selector
 super + alt
