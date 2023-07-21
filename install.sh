@@ -31,4 +31,6 @@ sudo chown -R kev:kev ./yay-git
 cd yay-git
 makepkg -si
 sudo yay -Syu && yay -S ungoogled-chromium 
+cat ~/.nanorc
+include /usr/share/nano/sh.nanorc
 echo "FINISHED!" 
